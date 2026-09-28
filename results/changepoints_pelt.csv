@@ -1,0 +1,10 @@
+penalty,word,group,changepoint
+0.25,culture,target,1840s→1850s
+0.25,horse,control,1860s→1870s
+0.25,water,control,1840s→1850s
+0.25,winter,control,1830s→1840s
+0.25,village,control,1840s→1850s
+0.25,garden,control,1860s→1870s
+0.25,friend,control,1860s→1870s
+0.25,dinner,control,1860s→1870s
+0.5,garden,control,1860s→1870s
